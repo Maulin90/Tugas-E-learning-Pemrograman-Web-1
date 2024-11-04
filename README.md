@@ -4,6 +4,7 @@ Cooking Master adalah aplikasi belajar memasak yang memungkinkan pengguna untuk 
 
 ## Instalasi
 Unduh Bootstrap dari [sini](https://getbootstrap.com/docs/5.3/getting-started/download/).
+Unduh Background yang telah disediakan.
 
 ### Menggunakan CDN
 Proyek ini menggunakan Bootstrap melalui CDN. Pastikan Anda terhubung ke internet saat menjalankan aplikasi ini. Tidak perlu mengunduh file Bootstrap.
