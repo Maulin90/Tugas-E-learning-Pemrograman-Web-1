@@ -18,5 +18,17 @@ Saya menggunakan Bootstrap secara lokal:
     <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
     ```
 
-## Cara Menjalankan Proyek
-- Buka file `index.html` di browser.
+## Cara Menjalankan
+
+1. Clone repository ini ke lokal Anda.
+2. Buka file `index.html` menggunakan browser Anda.
+
+## Struktur Folder
+
+- `index.html` - Halaman utama aplikasi.
+- `login.html` - Halaman login pengguna.
+- `register.html` - Halaman pendaftaran pengguna.
+- `dashboard.html` - Halaman dashboard setelah login.
+- `/bootstrap-5.3.3-dist` - Folder yang berisi file Bootstrap lokal.
+- `/background` - Folder yang berisi gambar latar belakang.
+
